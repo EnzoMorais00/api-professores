@@ -1,0 +1,12 @@
+target/
+.idea/
+.vscode/
+*.iml
+*.log
+.env
+.DS_Store
+__pycache__/
+
+# Banco PostgreSQL WebAssembly opcional para desenvolvimento
+dev-postgres/node_modules/
+dev-postgres/data/
